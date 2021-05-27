@@ -1,4 +1,4 @@
-# einstein-qed
+# Einstein-QED
 
 Gravitational corrections to two-loop beta function in quantum electrodynamics
 
